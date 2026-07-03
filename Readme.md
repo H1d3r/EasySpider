@@ -61,8 +61,10 @@ Click [here](https://www.capsolver.com/blog/web-scraping/easyspider-capsolver) t
 平均响应 < 0.5 秒 ｜IP 来源合规可靠 ｜任务流畅不中断
 
 三大核心方案，覆盖全部采集场景
-住宅代理
-低至 $0.49/GB ｜无限并发 ｜支持地区 / ASN 精准定
+
+住宅代理低至 $0.49/GB ｜无限并发 ｜支持地区 / ASN
+
+精准定位
 
 不限量住宅代理
 低至 $8/小时 ｜不限流量 & IP
